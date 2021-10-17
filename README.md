@@ -1,1 +1,1 @@
-# Python-renci-Bilgi-Sistemi---Konsol
+# Python-student-system
